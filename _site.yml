@@ -8,7 +8,11 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Proyecto 1"
-      href: Estimacion_VAR_Fiscal.html
+      href: SARIMA_Desempleo.html
+    - text: "Proyecto 2"
+      href: VAR_Fiscal.html
+    - text: "Proyecto 3"
+      href: GARCH_SP_500.html
 output:
   html_document:
     theme: united
