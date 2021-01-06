@@ -13,6 +13,8 @@ navbar:
       href: VAR_Fiscal.html
     - text: "Proyecto 3"
       href: GARCH_SP_500.html
+    - text: "Proyecto 4"
+      href: Replica_Credit_Risk_ML.html      
 output:
   html_document:
     theme: united
